@@ -12,13 +12,13 @@
 
 ### One-Command Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/pwnagotchi-complete/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/kr4ckhe4d/pwnagotchi-pizero2w-waevshare-v4/main/install.sh | bash
 ```
 
 ### Manual Installation
 ```bash
-git clone https://github.com/yourusername/pwnagotchi-complete.git
-cd pwnagotchi-complete
+git clone https://github.com/kr4ckhe4d/pwnagotchi-pizero2w-waevshare-v4.git
+cd pwnagotchi-pizero2w-waevshare-v4
 chmod +x install.sh
 ./install.sh
 ```
@@ -190,8 +190,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pwnagotchi-complete/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/pwnagotchi-complete/discussions)
+- **Issues**: [GitHub Issues](https://github.com/kr4ckhe4d/pwnagotchi-pizero2w-waevshare-v4/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kr4ckhe4d/pwnagotchi-pizero2w-waevshare-v4/discussions)
 - **Documentation**: Run `test-pwnagotchi` for diagnostics
 
 ---
